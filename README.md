@@ -59,6 +59,10 @@ input images folder : s ,   result folder : s25
 bash main.sh   
 
 
+# simplified
+
+bash sim.sh
+
 
 ```
 
