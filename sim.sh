@@ -113,9 +113,5 @@ parallel gmic {} -fx_vector_painting 9,0,50,50 -o ../s1/{} ::: *.*
 cd ..
 cd s1
 parallel convert {}  -set filename:new  ../s25/"%tm3_finger5c" "%[filename:new].png" ::: *.*
-cd ..
-cd s5
-parallel convert {}  -set filename:new  ../s25/"%tm3_finger5h" "%[filename:new].png" ::: *.*
-
 
 
