@@ -61,7 +61,7 @@ bash main.sh
 
 # simplified
 
-bash sim.sh
+bash sim2.sh
 
 
 ```
