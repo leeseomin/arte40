@@ -63,6 +63,10 @@ bash main.sh
 
 bash sim2.sh
 
+or 
+
+bash 4ksim2.sh
+
 
 ```
 
