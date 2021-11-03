@@ -58,14 +58,12 @@ input images folder : s ,   result folder : s25
 
 bash main.sh   
 
+or
 
-# simplified
 
-bash sim2.sh
+bash sim5.sh
 
-or 
 
-bash 4ksim2.sh
 
 
 or
