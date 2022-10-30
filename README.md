@@ -1,6 +1,12 @@
 # arte40
 
+### Dependency install on m1 mac 
 
+```
+brew install imagemagick
+brew install gmic
+brew install parallel
+```
 
 ### Dependency install on ubuntu 20.04 
 
