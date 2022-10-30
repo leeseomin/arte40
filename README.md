@@ -7,7 +7,7 @@ brew install imagemagick
 brew install gmic
 brew install parallel
 
-if error installing
+if error installing :
 xcode-select --install
 
 ```
